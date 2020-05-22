@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="ALPromotedCategories">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2328808854 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyField</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field MyField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931038265 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,,,,,Status,,,,,Function,,,,,Navigate</source>
+          <target state="translated">Neu,Verarbeiten,Bericht,,,,,Status,,,,,Funktion,,,,,Navigieren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2931038265 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Action</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931038265 - Action 1981048878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Action</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage - Action Status Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931038265 - Action 2141422136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Action</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage - Action Function Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931038265 - Action 2953451707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navigate Action</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyPage - Action Navigate Action - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
